@@ -1,0 +1,23 @@
+{
+  "name": "merge-iterators",
+  "version": "0.0.0",
+  "description": "Merge iterators into one",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukks/merge-iterators.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukks/merge-iterators/issues"
+  },
+  "homepage": "https://github.com/lukks/merge-iterators#readme",
+  "devDependencies": {
+    "brittle": "^3.3.2",
+    "standard": "^17.1.0"
+  }
+}
